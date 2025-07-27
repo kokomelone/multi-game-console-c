@@ -1,4 +1,4 @@
-# Multi-Game Console: Snake and Ladder & Tic Tac Toe
+# ArcadeMania: Snake and Ladder & Tic Tac Toe
 
 This project merges two beloved games—**Tic Tac Toe** and **Snake and Ladder**—into a single C-based console application. It provides players with a nostalgic yet modern experience through interactive gameplay, AI logic, and game-saving capabilities.
 
